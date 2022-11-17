@@ -28,7 +28,7 @@
   
 
 
-<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=TheMaharshii&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div><br>
+<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=TheMaharshii&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div><br><br>
 
 
 <div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMaharshii&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
